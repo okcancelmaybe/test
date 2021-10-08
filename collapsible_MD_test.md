@@ -37,37 +37,38 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 <details open>
 <summary><b>Supported File Formats</b></summary>
   
-  <details>
-    <summary>Read & Write 3D Formats</summary>
+<details>
+<summary>Read & Write 3D Formats</summary>
 
-        * **Autodesk** FBX 7.2 to 7.5 (ASCII/Binary)
-        * **3D Systems CAD:** STL (ASCII/Binary)
-        * **Wavefront:** OBJ
-        * **Discreet 3D Studio:** 3DS
-        * **Universal3D:** U3D
-        * **Collada:** DAE
-        * **GL Transmission:** glTF (ASCII/Binary)
-        * **Google Draco:** DRC
-        * **RVM:** (Text/Binary)
-        * **Portable Document Format:** PDF
-        * **Other:** AMF, PLY (ASCII/Binary)
+* **Autodesk** FBX 7.2 to 7.5 (ASCII/Binary)
+* **3D Systems CAD:** STL (ASCII/Binary)
+* **Wavefront:** OBJ
+* **Discreet 3D Studio:** 3DS
+* **Universal3D:** U3D
+* **Collada:** DAE
+* **GL Transmission:** glTF (ASCII/Binary)
+* **Google Draco:** DRC
+* **RVM:** (Text/Binary)
+* **Portable Document Format:** PDF
+* **Other:** AMF, PLY (ASCII/Binary)
+
 </details>
   
   
   <details>
     <summary>Save 3D Files As</summary>
   
-        * **WEB:** HTML
-    
+* **WEB:** HTML
+
 </details>
   
   <details>
     <summary>Read 3D Formats</summary>
   
-        * **DirectX:** X (ASCII/Binary)
-        * **Siemens:** JT
-        * **Other:** DXF, ASF, VRML, 3MF
-    
+* **DirectX:** X (ASCII/Binary)
+* **Siemens:** JT
+* **Other:** DXF, ASF, VRML, 3MF
+
   </details>
   
 </details>
