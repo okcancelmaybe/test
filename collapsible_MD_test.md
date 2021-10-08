@@ -1,13 +1,13 @@
 # .NET API for 3D File Formats
 
-![Version 21.9](https://img.shields.io/badge/nuget-v21.9-blue) ![Nuget](https://img.shields.io/nuget/dt/Aspose.3D)
+[![Nuget](https://img.shields.io/nuget/v/Aspose.3D)](https://www.nuget.org/packages/Aspose.3D/) ![Nuget](https://img.shields.io/nuget/dt/Aspose.3D)
 
 [![Banner](https://www.dropbox.com/s/gsymp1t927ebjaw/aspose_3d-for-net-banner-e-5.png?raw=1)](https://downloads.aspose.com/3d/net)
 
 [Product Page](https://products.aspose.com/3d/net/) | [Docs](https://docs.aspose.com/3d/net/) | [Demos](https://products.aspose.app/3d/family) | [API Reference](https://apireference.aspose.com/3d/net) | [Examples](https://github.com/aspose-3d/Aspose.3D-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/3d/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/3d) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
 
-<details open>
+<details>
 <summary><b>What is Aspose.3D for .NET?</b></summary>
   
 [Aspose.3D for .NET](https://products.aspose.com/3d/net/) empowers .NET applications to connect with 3D document formats. 3D .NET API lets engineers read, convert, build, alter, and control the substance of the [3D document formats](https://docs.aspose.com/3d/net/supported-file-formats/) without any 3D modeling and rendering software installed on the machine.
@@ -20,7 +20,7 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 
 </details>
 
-<details>
+<details open>
 <summary><b>3D File Processing Features</b></summary>
 
 - [Import 3D scenes from PDF](https://docs.aspose.com/3d/net/import-3d-scenes-and-contents-from-a-pdf/).
