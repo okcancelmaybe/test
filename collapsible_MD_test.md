@@ -12,9 +12,9 @@
   
 [Aspose.3D for .NET](https://products.aspose.com/3d/net/) empowers .NET applications to connect with 3D document formats. 3D .NET API lets engineers read, convert, build, alter, and control the substance of the [3D document formats](https://docs.aspose.com/3d/net/supported-file-formats/) without any 3D modeling and rendering software installed on the machine.
 
-Aspose.3D for .NET is an on premise class library that enables your .NET applications to create, read, manipulate, convert and save various formats of 3D files (e.g. 3DS, 3MF, DAE, DFX, gITF, U3D, etc.), without installing any 3rd party 3D modeling or rendering software.
+This on premise class library enables your .NET applications to create, read, manipulate, convert and save various formats of 3D files (e.g. 3DS, 3MF, DAE, DFX, gITF, U3D, etc.), without installing any 3rd party 3D modeling or rendering software.
 
-Aspose.3D for .NET API enhances your .NET apps to open files of 3D formats and work with the elements within the 3D scenes; such as; line, mesh, nurbs, curves to more complex elements like animation. You can also work with textures, parametrized geometries, scene graphs, custom properties, skeletons, morph deformers and much more.
+It enhances your .NET apps to open files of 3D formats and work with the elements within the 3D scenes; such as; line, mesh, nurbs, curves to more complex elements like animation. You can also work with textures, parametrized geometries, scene graphs, custom properties, skeletons, morph deformers and much more.
 
 Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) that can install Mono (.NET 4.0 Framework support) or use .NET Core. It is a single .NET library that you can deploy with any .NET application by simply copying it. You do not have to worry about other services or modules. Aspose.3D for .NET is designed to perform equally well on the server as well as the client-side.
 
