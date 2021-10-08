@@ -108,7 +108,8 @@ Are you ready to give Aspose.3D for .NET a try? Simply execute `Install-Package 
 
 <details>
     <summary>Export 3D Scene to Compressed AMF via C# Code</summary>
-
+    <p>
+    
         ```csharp
         // load a scene
         Scene scene = new Scene();
@@ -129,6 +130,8 @@ Are you ready to give Aspose.3D for .NET a try? Simply execute `Install-Package 
         EnableCompression = true
         });
         ```
+
+  </p>    
 </details>
   
 </details>
