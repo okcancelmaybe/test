@@ -91,7 +91,7 @@ Are you ready to give Aspose.3D for .NET a try? Simply execute `Install-Package 
 <details open>
 <summary><b>Code Samples</b></summary>
 
-<details>
+<details open>
 <summary>Build a Scene with Primitive 3D Models using C# Code</summary>
 <p>
 
@@ -108,7 +108,7 @@ scene.Save(dir + "output.fbx", FileFormat.FBX7500ASCII);
 </p>
 </details>
 
-<details>
+<details open>
 <summary>Export 3D Scene to Compressed AMF via C# Code</summary>
 <p>
 
@@ -139,4 +139,3 @@ EnableCompression = true
 </details>
 
 [Product Page](https://products.aspose.com/3d/net/) | [Docs](https://docs.aspose.com/3d/net/) | [Demos](https://products.aspose.app/3d/family) | [API Reference](https://apireference.aspose.com/3d/net) | [Examples](https://github.com/aspose-3d/Aspose.3D-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/3d/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/3d) | [Temporary License](https://purchase.aspose.com/temporary-license)
-
