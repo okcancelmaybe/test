@@ -9,8 +9,8 @@
 [Aspose.3D for .NET](https://products.aspose.com/3d/net/) empowers .NET applications to connect with 3D document formats. 3D .NET API lets engineers read, convert, build, alter, and control the substance of the [3D document formats](https://docs.aspose.com/3d/net/supported-file-formats/) without any 3D modeling and rendering software installed on the machine.
 
 
-<details>
-<summary>What is Aspose.3D for .NET?</summary>
+<details open>
+<summary><b>What is Aspose.3D for .NET?</b></summary>
   
 Aspose.3D for .NET is an on premise class library that enables your .NET applications to create, read, manipulate, convert and save various formats of 3D files (e.g. 3DS, 3MF, DAE, DFX, gITF, U3D, etc.), without installing any 3rd party 3D modeling or rendering software.
 
@@ -21,7 +21,7 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 </details>
 
 <details>
-<summary>3D File Processing Features</summary>
+<summary><b>3D File Processing Features</b></summary>
 
 - [Import 3D scenes from PDF](https://docs.aspose.com/3d/net/import-3d-scenes-and-contents-from-a-pdf/).
 - Import, create, customize, & save 3D scenes.
@@ -34,8 +34,8 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 
 </details>
 
-<details>
-<summary>Supported File Formats</summary>
+<details open>
+<summary><b>Supported File Formats</b></summary>
   
   <details>
     <summary>Read & Write 3D Formats</summary>
@@ -74,27 +74,25 @@ Aspose.3D for .NET can be used on any operating system (Windows, MacOS, Linux) t
 
 
 <details>
-<summary>Platform Independence</summary>
+<summary><b>Platform Independence</b></summary>
 
 Aspose.3D for .NET is written in C# and supports Windows Forms as well as ASP.NET apps. Development can be performed on any platform that has a .NET environment for both 32-bit and 64-bit applications. It supports .NET Frameworks 2.0 till 4.7.2 as well as the Client Profile version for .NET Framework 4.0.
   
 </details>
 
 <details>
-<summary>Get Started</summary>
+<summary><b>Get Started</b></summary>
 
 Are you ready to give Aspose.3D for .NET a try? Simply execute `Install-Package Aspose.3D` from the Package Manager Console in Visual Studio to fetch the NuGet package. If you already have Aspose.3D for .NET and want to upgrade the version, please execute `Update-Package Aspose.3D` to get the latest version.
 
 </details>
 
 
-<details>
-<summary>Code Samples</summary>
+<details open>
+<summary><b>Code Samples</b></summary>
 
 <details>
     <summary>Build a Scene with Primitive 3D Models using C# Code</summary>
-    
-        You can execute the below code snippet to see how Aspose.3D performs in your environment or check the [GitHub Repository](https://github.com/aspose-3d/Aspose.3D-for-.NET) for other common usage scenarios.
 
         ```csharp
         // initialize a Scene object
@@ -110,8 +108,6 @@ Are you ready to give Aspose.3D for .NET a try? Simply execute `Install-Package 
 
 <details>
     <summary>Export 3D Scene to Compressed AMF via C# Code</summary>
-    
-        Aspose.3D for .NET enables you to save 3D meshes in custom binary format, get all property values of 3D scenes as well as flip their coordinate system. The following example demonstrates the conversion of a 3D scene to AMF format while applying compression to it.
 
         ```csharp
         // load a scene
