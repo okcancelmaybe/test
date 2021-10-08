@@ -87,51 +87,52 @@ Are you ready to give Aspose.3D for .NET a try? Simply execute `Install-Package 
 
 </details>
 
-
 <details open>
 <summary><b>Code Samples</b></summary>
 
 <details>
-    <summary>Build a Scene with Primitive 3D Models using C# Code</summary>
+<summary>Build a Scene with Primitive 3D Models using C# Code</summary>
+<p>
 
-        ```csharp
-        // initialize a Scene object
-        Scene scene = new Scene();
-        // create a Box model
-        scene.RootNode.CreateChildNode("box", new Box());
-        // create a Cylinder model
-        scene.RootNode.CreateChildNode("cylinder", new Cylinder());
-        // save drawing in FBX format
-        scene.Save(dir + "output.fbx", FileFormat.FBX7500ASCII);
-        ```
+```csharp
+// initialize a Scene object
+Scene scene = new Scene();
+// create a Box model
+scene.RootNode.CreateChildNode("box", new Box());
+// create a Cylinder model
+scene.RootNode.CreateChildNode("cylinder", new Cylinder());
+// save drawing in FBX format
+scene.Save(dir + "output.fbx", FileFormat.FBX7500ASCII);
+```
+</p>
 </details>
 
 <details>
-    <summary>Export 3D Scene to Compressed AMF via C# Code</summary>
-    <p>
-    
-        ```csharp
-        // load a scene
-        Scene scene = new Scene();
-        var box = new Box();
-        var tr = scene.RootNode.CreateChildNode(box).Transform;
-        tr.Scale = new Vector3(12, 12, 12);
-        tr.Translation = new Vector3(10, 0, 0);
-        tr = scene.RootNode.CreateChildNode(box).Transform;
-        // scale transform
-        tr.Scale = new Vector3(5, 5, 5);
-        // set Euler angles
-        tr.EulerAngles = new Vector3(50, 10, 0);
-        scene.RootNode.CreateChildNode();
-        scene.RootNode.CreateChildNode().CreateChildNode(box);
-        scene.RootNode.CreateChildNode().CreateChildNode(box);
-        // save compressed AMF file
-        scene.Save(dir + "output.amf", new AMFSaveOptions() {
-        EnableCompression = true
-        });
-        ```
+<summary>Export 3D Scene to Compressed AMF via C# Code</summary>
+<p>
 
-  </p>    
+```csharp
+// load a scene
+Scene scene = new Scene();
+var box = new Box();
+var tr = scene.RootNode.CreateChildNode(box).Transform;
+tr.Scale = new Vector3(12, 12, 12);
+tr.Translation = new Vector3(10, 0, 0);
+tr = scene.RootNode.CreateChildNode(box).Transform;
+// scale transform
+tr.Scale = new Vector3(5, 5, 5);
+// set Euler angles
+tr.EulerAngles = new Vector3(50, 10, 0);
+scene.RootNode.CreateChildNode();
+scene.RootNode.CreateChildNode().CreateChildNode(box);
+scene.RootNode.CreateChildNode().CreateChildNode(box);
+// save compressed AMF file
+scene.Save(dir + "output.amf", new AMFSaveOptions() {
+EnableCompression = true
+});
+```
+
+  </p>
 </details>
   
 </details>
