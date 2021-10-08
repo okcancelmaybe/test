@@ -2,7 +2,7 @@
 
 ![Version 21.9](https://img.shields.io/badge/nuget-v21.9-blue) ![Nuget](https://img.shields.io/nuget/dt/Aspose.3D)
 
-[![Banner](https://dl.dropboxusercontent.com/s/qrhrh942ft6v90s/aspose-3d-package-banner.png)](https://products.aspose.com/3d/net/)
+[![Banner](https://www.aspose.cloud/templates/banners/thirdparty/aspose.3d-for-net.png)](https://products.aspose.com/3d/net/)
 
 [Product Page](https://products.aspose.com/3d/net/) | [Docs](https://docs.aspose.com/3d/net/) | [Demos](https://products.aspose.app/3d/family) | [API Reference](https://apireference.aspose.com/3d/net) | [Examples](https://github.com/aspose-3d/Aspose.3D-for-.NET/tree/master/Examples) | [Blog](https://blog.aspose.com/category/3d/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/3d) | [Temporary License](https://purchase.aspose.com/temporary-license)
 
